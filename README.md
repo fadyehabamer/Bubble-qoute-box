@@ -1,2 +1,2 @@
 # Bubble quote box
-how to make a Div with pointer using Css3
+> how to make a Div with pointer using Css3
